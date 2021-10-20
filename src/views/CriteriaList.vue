@@ -37,7 +37,7 @@
 
 <!--            <el-button-group style="padding: 40px">-->
                 <!--  <a class="btn btn-info" id="nextstep" role="button" data-toggle="modal" data-target="#myModal">&nbsp;&nbsp;See More&nbsp;&nbsp;</a>-->
-        <el-row style="margin-top: 10px; display: flex; margin-left: 30px">
+        <el-row style="width: 80%; margin: auto; margin-top: 10px; display: flex;">
                 <el-button type="success" id="ehrprojection" @click="toEHRProjection()" round style="margin-right: 5px">Estimate Recruitment with EHR</el-button>
                 <el-button type="warning" id="download" round style="margin-right: 5px" @click="downloadJson()">Download JSON Format</el-button>
                 <el-button type="primary" id="generate" round style="margin-right: 5px">Generate Human Readable Text</el-button>
