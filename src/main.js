@@ -53,9 +53,9 @@ Vue.component('v-chart', ECharts)
 
 // register global variables to use
 // dev
-// Vue.prototype.$apiUrl = "http://localhost:8081";
+Vue.prototype.$apiUrl = "http://192.168.1.98:8081";
 // production
-Vue.prototype.$apiUrl = "http://71.172.109.10:8081/";
+// Vue.prototype.$apiUrl = "http://71.172.109.10:8081/";
 Vue.config.productionTip = false
 
 
