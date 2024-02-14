@@ -4,7 +4,7 @@
         <section class="features-icons bg-light text-center">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3">
+                    <div class="col-lg-4">
                         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex" @click="toCriteriaLib()">
                                 <i class="icon-basket m-auto text-primary"></i>
@@ -14,7 +14,7 @@
                                 200,000 trials</p>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-4">
                         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex" @click="toConditionLib()">
                                 <i class="icon-calculator m-auto text-primary"></i>
@@ -33,7 +33,7 @@
 <!--                                questions</p>-->
 <!--                        </div>-->
 <!--                    </div>-->
-                    <div class="col-lg-3">
+                    <div class="col-lg-4">
                     <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                       <div class="features-icons-icon d-flex">
                         <i class="icon-layers m-auto text-primary"></i>
