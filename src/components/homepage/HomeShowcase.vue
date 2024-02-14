@@ -15,10 +15,11 @@
                     <div class="col-lg-6 text-white showcase-img info_banner_1"></div>
                     <div class="col-lg-6 my-auto showcase-text">
                         <h2>Real-World Data Applications</h2>
-                        <p class="lead mb-0">Eligibility information collected and analyzed in the Knowledge Base is already
-                            being applied in clinics and hospitals around the country in our freely available <a
-                                    href="http://www.ohdsi.org/web/criteria2query/">Criteria2Query</a> and <a
-                                    href="http://impact2.dbmi.columbia.edu/dquest-flask/">DQueST</a> platforms</p>
+                        <p class="lead mb-0">Eligibility information collected and analyzed in the Knowledge Base is
+                            being applied in clinics and hospitals research around the country in our freely available platforms MedConn [Under development]
+<!--                          <a href="http://www.ohdsi.org/web/criteria2query/">Criteria2Query</a> -->
+<!--                          and <a href="http://impact2.dbmi.columbia.edu/dquest-flask/">DQueST</a> -->
+                          </p>
                     </div>
                 </div>
             </div>

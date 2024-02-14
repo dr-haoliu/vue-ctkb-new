@@ -7,11 +7,11 @@
                     <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
                         <ul class="list-inline mb-2">
                             <li class="list-inline-item">
-                                <a href="http://people.dbmi.columbia.edu/~chw7007/">About</a>
+                                <a href="https://haoai.org/">About</a>
                             </li>
                             <li class="list-inline-item">&sdot;</li>
                             <li class="list-inline-item">
-                                <a href="https://www.dbmi.columbia.edu/people/chunhua-weng/">Contact</a>
+                                <a href="https://dr-haoliu.github.io/">Contact</a>
                             </li>
                             <li class="list-inline-item">&sdot;</li>
                             <li class="list-inline-item">
@@ -22,7 +22,7 @@
                                 <a href="#">Privacy Policy</a>
                             </li>
                         </ul>
-                        <p class="text-muted small mb-4 mb-lg-0">&copy; Wenglab  2020. All Rights Reserved.</p>
+                        <p class="text-muted small mb-4 mb-lg-0">&copy; HaoAI.org 2024. All Rights Reserved.</p>
                     </div>
                     <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
                         <ul class="list-inline mb-0">
